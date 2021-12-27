@@ -3,6 +3,7 @@ public class Person {
     String adress;
     int age;
     int phone;
+    String employee;
 
     public Person(String name, int age) {
         this.name = name;
@@ -40,6 +41,14 @@ public class Person {
     
     public void setPhone(int phone){
         this.phone=phone;
+    }
+
+    public String getEmployee() {
+        return employee;
+    }
+
+    public void setEmployee(String employee){
+        this.employee=employee;
     }
 
 
