@@ -7,5 +7,7 @@ public class Main {
         Person person = new Person("Arne", 100);
 
         System.out.println("Main.main "+person.getName());
+
+        System.out.println("HEJ");
     }
 }
