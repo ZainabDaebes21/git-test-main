@@ -1,6 +1,8 @@
 public class Person {
     String name;
+    String adress;
     int age;
+    int phone;
 
     public Person(String name, int age) {
         this.name = name;
@@ -31,4 +33,15 @@ public class Person {
     public void setAdress(string adress) {
         this.adress = adress;
     }
+
+    public String getPhone(){
+        return phone;
+    }
+    
+    public void setPhone(string phone){
+        this.phone=phone;
+    }
+
+
+
 }
