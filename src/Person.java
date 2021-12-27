@@ -34,7 +34,7 @@ public class Person {
         this.adress = adress;
     }
 
-    public String getPhone(){
+    public int getPhone(){
         return phone;
     }
     
