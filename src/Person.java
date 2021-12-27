@@ -47,8 +47,8 @@ public class Person {
         return employee;
     }
 
-    public void setEmployee(String employee){
-        this.employee=employee;
+    public void setEmployee(String employee) {
+        this.employee = employee;
     }
 
 
