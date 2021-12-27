@@ -1,9 +1,10 @@
 public class Person {
     String name;
     String adress;
+    String employee;
     int age;
     int phone;
-    String employee;
+
 
     public Person(String name, int age) {
         this.name = name;
