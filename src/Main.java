@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Main.main "+person.getName());
 
         System.out.println("HEJ");
+        System.out.println("HALLÅÅÅ");
     }
 }
