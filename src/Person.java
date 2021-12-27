@@ -26,11 +26,11 @@ public class Person {
     }
 
     
-    public string getAdress() {
+    public String getAdress() {
         return adress;
     }
 
-    public void setAdress(string adress) {
+    public void setAdress(String adress) {
         this.adress = adress;
     }
 
@@ -38,7 +38,7 @@ public class Person {
         return phone;
     }
     
-    public void setPhone(string phone){
+    public void setPhone(int phone){
         this.phone=phone;
     }
 
