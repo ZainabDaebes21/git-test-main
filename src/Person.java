@@ -22,4 +22,13 @@ public class Person {
     public void setAge(int age) {
         this.age = age;
     }
+
+    
+    public string getAdress() {
+        return adress;
+    }
+
+    public void setAdress(string adress) {
+        this.adress = adress;
+    }
 }
